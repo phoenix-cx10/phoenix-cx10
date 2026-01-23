@@ -20,17 +20,9 @@
 ---
 
 ## 📌 Projects
-
-<p align="center">
-  <a href="https://github.com/phoenix-cx10/comix">📦 comix</a> • 
-  <a href="https://github.com/phoenix-cx10/hueday">📅 hueday</a>
-</p>
-
-- **comix** – Book marketplace UI  
-- **hueday** – Mood tracking UI with emojis  
-
-> Explore more on my GitHub 👇  
-> 🔗 github.com/phoenix-cx10
+  
+- **<a href="https://github.com/phoenix-cx10/comix">📦 comix</a>** – Book marketplace UI  
+- **<a href="https://github.com/phoenix-cx10/hueday">📅 hueday</a>** – Mood tracking UI with emojis  
 
 ---
 
