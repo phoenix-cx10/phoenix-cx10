@@ -45,3 +45,10 @@
 ---
 
 ### ✨ *"I love building products that feel simple, clean, and meaningful."*
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=4CC2FF&height=120&section=footer" />
+</p>
+
+---
