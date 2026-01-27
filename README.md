@@ -44,5 +44,4 @@
 
 ---
 
-### ✨ *"I love building products that feel simple, clean, and meaningful."*
-
+.
