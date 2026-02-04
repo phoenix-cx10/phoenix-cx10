@@ -19,12 +19,12 @@
 
 ---
 
-## 📌 Projects
+## 📌 Projects [ Deployments ]
 
   
 - **<a href="https://phoenix-cx10.github.io/kilangi/"> Jewel store UI </a>** - [ Jewel Store ]
 - **<a href="https://github.com/phoenix-cx10/comix"> Comix</a>** – Book marketplace [ Bookstore ]
-- **<a href="https://cherisc-71x251mkk-techfaultofficial-gmailcoms-projects.vercel.app/"> Notes app </a> - an notes taking app with chrome extension [ on progress ]
+- **<a href="https://cherisc-71x251mkk-techfaultofficial-gmailcoms-projects.vercel.app/"> Notes app </a>** - an notes taking app with chrome extension [ on progress ]
 - **<a href="https://github.com/phoenix-cx10/hueday"> Hueday</a>** – Mood tracking UI with emojis [ Ui Hackathon project ]  
 
 ---
