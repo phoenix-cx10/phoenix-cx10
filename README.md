@@ -40,7 +40,6 @@
 ## 🌐 Socials
 
 <p>
-<a href="https://github.com/phoenix-cx10"><img height="35" src="https://skillicons.dev/icons?i=github" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/hariphs/"><img height="35" src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
