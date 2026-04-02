@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋 I'm Hari</h1>
-<p align="center">Frontend Developer • Exploring Backend</p>
+<p align="center">Web Developer</p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&color=4CC2FF&center=true&vCenter=true&width=520&lines=Frontend+Developer+(React+%2B+Tailwind);Exploring+Backend+(Node.js+%2B+APIs)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&color=4CC2FF&center=true&vCenter=true&width=520&lines=Web+Developer+(React+%2B+NEXT.js);Exploring+Backend+(Node.js+%2B+APIs)" />
 </p>
 
 ---
