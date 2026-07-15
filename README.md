@@ -8,7 +8,6 @@
 - 🔭 I build user-focused interfaces using **React & Tailwind**
 - 🌱 Currently exploring **Backend (Node.js, Express, REST APIs)**
 - 🎨 Enjoy crafting clean, minimal, production-quality UI
-- 🎯 Goal: **Product Engineer**
 - 📌 Based in **Chennai, India**
 
 ---
